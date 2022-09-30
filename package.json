@@ -9,8 +9,6 @@
     "dev": "nodemon ."
   },
   "keywords": [],
-  "author": "napthedev",
-  "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2",
     "cors": "^2.8.5",
